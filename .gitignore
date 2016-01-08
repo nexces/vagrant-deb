@@ -1,0 +1,5 @@
+pkg
+src
+vagrant_*.deb
+vagrant-*.src.tar.gz
+vagrant-*.tar.xz
